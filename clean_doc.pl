@@ -1,9 +1,6 @@
 #!/usr/bin/env perl
 
 # Sean Reid
-# CSC310A
-# Program that searches for word in file and replaces it with dashes
-# Spring 2018
 
 use warnings;
 
