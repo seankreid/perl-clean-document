@@ -1,0 +1,1 @@
+This is a text document. This perl program allows you to specify a word and replace it with dashes. IF this worked correctly, word should be dashed out.
